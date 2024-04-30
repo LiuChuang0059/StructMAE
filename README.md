@@ -1,4 +1,6 @@
-# StructMAE: Structure-Guided Masking for Graph Masked Autoencoders
+# Where to Mask: Structure-Guided Masking for Graph Masked Autoencoders [IJCAI 2024]
+
+
 
 ## Overview
 
